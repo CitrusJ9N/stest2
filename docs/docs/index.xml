@@ -1,0 +1,53 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test site – Top Page</title>
+    <link>https://citrusj9n.github.io/stest2/docs/</link>
+    <description>Recent content in Top Page on test site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="https://citrusj9n.github.io/stest2/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Test</title>
+      <link>https://citrusj9n.github.io/stest2/docs/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://citrusj9n.github.io/stest2/docs/test/</guid>
+      <description>
+        
+        
+        &lt;p&gt;日本語テスト&lt;/p&gt;
+&lt;h2 id=&#34;りんご&#34;&gt;りんご&lt;/h2&gt;
+&lt;p&gt;林檎&lt;/p&gt;
+&lt;h2 id=&#34;バナナ&#34;&gt;バナナ&lt;/h2&gt;
+&lt;p&gt;ばな奈&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: テスト</title>
+      <link>https://citrusj9n.github.io/stest2/docs/test2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://citrusj9n.github.io/stest2/docs/test2/</guid>
+      <description>
+        
+        
+        &lt;p&gt;日本語テスト&lt;/p&gt;
+&lt;h2 id=&#34;りんご&#34;&gt;りんご&lt;/h2&gt;
+&lt;p&gt;林檎&lt;/p&gt;
+&lt;h2 id=&#34;バナナ&#34;&gt;バナナ&lt;/h2&gt;
+&lt;p&gt;ばな奈&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
